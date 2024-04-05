@@ -1,1 +1,10 @@
 # Weather-App
+![clear](https://github.com/TanayaMohite/Weather-App/assets/163385971/7262ff9d-365d-4f4a-84b2-effd3827d0a9)
+![clouds](https://github.com/TanayaMohite/Weather-App/assets/163385971/34bc7f48-f345-43c6-86fd-4055ac409b52)
+![drizzle](https://github.com/TanayaMohite/Weather-App/assets/163385971/989b8358-0fb8-4e91-8a8b-980fd7479444)
+![humidity](https://github.com/TanayaMohite/Weather-App/assets/163385971/e43519f0-61c0-48e8-aaeb-aa5944e5765c)
+![mist](https://github.com/TanayaMohite/Weather-App/assets/163385971/a7df1d6f-9247-45fe-b655-4bbc84b77bd8)
+![rain](https://github.com/TanayaMohite/Weather-App/assets/163385971/dd32326b-f529-43f5-84ef-134a5e11822c)
+![search](https://github.com/TanayaMohite/Weather-App/assets/163385971/24a8cd2e-f714-4fd1-ba74-2f2a89e1f263)
+![snow](https://github.com/TanayaMohite/Weather-App/assets/163385971/63e70f4d-2419-43f3-bc24-978cc8dc8022)
+![wind](https://github.com/TanayaMohite/Weather-App/assets/163385971/a4bd9ad2-e647-4dae-8139-6d3e7c59810b)
